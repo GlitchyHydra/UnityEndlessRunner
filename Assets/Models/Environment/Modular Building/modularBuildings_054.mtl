@@ -1,14 +1,22 @@
-#
-## Alias OBJ Material File
-# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# Blender MTL File: 'None'
+# Material Count: 2
 
-newmtl Brick
-Ka 0.000000 0.000000 0.000000
+newmtl Brick.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
 Kd 0.917647 0.898039 0.811765
 Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
 
-newmtl Glass
-Ka 0.000000 0.000000 0.000000
+newmtl Glass.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
 Kd 0.611765 0.831373 0.886275
 Ks 0.330000 0.330000 0.330000
-
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
